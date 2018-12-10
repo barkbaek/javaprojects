@@ -1,5 +1,6 @@
-# Enter name:<br>
-# Edmond Baek<br>
+### Score Project
+**Enter name:**<br>
+Edmond Baek<br>
 # Enter korean score:<br>
 # 89<br>
 # Enter english score:<br>
