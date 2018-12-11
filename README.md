@@ -1,11 +1,11 @@
 ### This repository is for java projects.<br>
 **Lotto**<br>
 This Lotto program extracts 6 balls that range is 1 to 45.<br>
-The ball is shuffled 100 times.<br>
+The balls are shuffled 100 times.<br>
 <br>
 **Lotto2**<br>
 This Lotto program extracts 6 balls that range is 1 to 45.<br>
-The ball is shuffled using Collections.shuffle() method.<br>
+The balls are shuffled using Collections.shuffle() method.<br>
 This project uses classes with interface.<br>
 <br>
 **Score**<br>
