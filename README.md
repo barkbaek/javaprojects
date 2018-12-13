@@ -11,3 +11,6 @@ This project uses classes with interface.<br>
 **Score**<br>
 When name, korean score, english score, math score is entered multiple times, the sum and average of each subject are shown.<br>
 <br>
+**CollectionsSort**<br>
+This project uses Collections.sort() with Comparable and Comparator interfaces.<br>
+Also it overrides toString(), equals(), and hashCode() methods.<br>
